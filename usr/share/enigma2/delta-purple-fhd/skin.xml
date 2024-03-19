@@ -11,14 +11,14 @@
 	</output>
 
 	<fonts>
-	<font name="delta-purple-fhd/font/Regular" filename="nmsbd.ttf" scale="100" />
-        <font name="delta-purple-fhd/font/LCD" filename="lcd.ttf" scale="100" />
-        <font name="delta-purple-fhd/font/Console" filename="tuxtxt.ttf" scale="100" />
-        <font name="delta-purple-fhd/font/Fixed" filename="andale.ttf" scale="100" />
-	<font name="delta-purple-fhd/font/DejaVuSans" filename="DejaVuSans.ttf" scale="100"/>
-	<font name="delta-purple-fhd/font/error" filename="error.ttf" scale="100"/>
-        <font name="delta-purple-fhd/font/Menu" filename="nmsbd.ttf" scale="100" />
-        <font name="delta-purple-fhd/font/PG" filename="venus.ttf" scale="100" />	
+	<font name="Regular" filename="nmsbd.ttf" scale="100" />
+        <font name="LCD" filename="lcd.ttf" scale="100" />
+        <font name="Console" filename="tuxtxt.ttf" scale="100" />
+        <font name="Fixed" filename="andale.ttf" scale="100" />
+	<font name="DejaVuSans" filename="DejaVuSans.ttf" scale="100"/>
+	<font name="error" filename="error.ttf" scale="100"/>
+        <font name="Menu" filename="nmsbd.ttf" scale="100" />
+        <font name="PG" filename="venus.ttf" scale="100" />	
 		<!-- fonts -->
 		<alias name="ChoiceList" font="Regular" size="28" height="38"/>
 		<alias name="TextNormal" font="Regular" size="28" height="38"/>
